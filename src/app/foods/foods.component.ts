@@ -7,9 +7,7 @@ import { FoodService } from '../food.service';
   styleUrls: ['./foods.component.css']
 })
 export class FoodsComponent {
-
   foods;
-
   constructor(foodService: FoodService) {
     this.foods = foodService.getProducts();
   }

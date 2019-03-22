@@ -14,3 +14,7 @@ p {
     font-size: 18px;
     font-family: "Avenir Next", "Avenir", "Avenir Next W04", "Avenir Next W02", sans-serif;
 }
+
+.margin {
+    margin: 20px;
+}
