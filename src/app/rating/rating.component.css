@@ -1,0 +1,19 @@
+.glyphicon-star {
+    color: orange;
+}
+
+.glyphicon-star-empty {
+    color: maroon;
+}
+
+p {
+    color: #3a0000;
+    font-size: 18px;
+    font-family: "Avenir Next", "Avenir", "Avenir Next W04", "Avenir Next W02", sans-serif;
+}
+
+span {
+    color: maroon;
+    font-size: 18px;
+    font-family: "Avenir Next", "Avenir", "Avenir Next W04", "Avenir Next W02", sans-serif;
+}

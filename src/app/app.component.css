@@ -1,0 +1,16 @@
+body {
+    font-size: 18px;
+    font-family: "Avenir Next", "Avenir", "Avenir Next W04", "Avenir Next W02", sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #570404;
+    text-align: center;
+}
+
+p {
+    color: #3a0000;
+    font-size: 18px;
+    font-family: "Avenir Next", "Avenir", "Avenir Next W04", "Avenir Next W02", sans-serif;
+}
