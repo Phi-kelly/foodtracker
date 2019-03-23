@@ -5,7 +5,7 @@ export class FoodService {
                 imageUrl: 'http://loremflickr.com/150/150/food?random = 1',
                 productName: 'Food 1',
                 releaseDate: 'Dec 21, 2016',
-                description: "Chicken curry is a dish originating from the Indian subcontinent, common delicacy in the cuisine of the Indian subcontinent, cuisine of Southeast Asia, as well as in the cuisine of the Caribbean. Chicken curry is one of my favourite food",
+                description: "Chicken curry is a dish originating from the Indian subcontinent, common delicacy in the cuisine of the Indian subcontinent, cuisine of Southeast Asia, as well as in the cuisine of the Caribbean.",
                 rating: 4,
                 numOfReviews: 2
             },
