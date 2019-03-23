@@ -18,3 +18,13 @@ p {
 .margin {
     margin: 20px;
 }
+
+.form-control {
+    border: 1px solid maroon;
+    color: maroon;
+}
+
+.btn-default {
+    border: 1px solid maroon;
+    color: maroon;
+}
